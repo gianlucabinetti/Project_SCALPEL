@@ -123,7 +123,7 @@ Python · Cowrie · Ollama (local LLM inference) · AWS Lambda · AWS Bedrock (C
 
 ## Team & context
 
-Built by a team of four during the eMERGE 2026 DoD hackathon. The work spanned the routing engine, cloud integration, OPSEC disguise, ground-truth capture pipeline, the self-scoring gauntlet, and the presentation.
+Built by a team of five during the eMERGE 2026 DoD hackathon. The work spanned the routing engine, cloud integration, OPSEC disguise, ground-truth capture pipeline, the self-scoring gauntlet, and the presentation.
 
 ---
 
