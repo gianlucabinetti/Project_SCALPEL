@@ -1,5 +1,5 @@
 #!/bin/bash
-# 🚨 EMERGENCY ROLLBACK 🚨
+#  EMERGENCY ROLLBACK 
 #
 # Requires PANIC_TOKEN env var to match the value in ~/.svcd_panic_token
 # (set up by install_svcd.sh). This prevents anyone with shell access from
@@ -28,7 +28,7 @@ fi
 
 if [ "${1:-}" != "--yes" ] && [ "${2:-}" != "--yes" ]; then
     echo ""
-    echo "   🚨 EMERGENCY ROLLBACK 🚨"
+    echo "    EMERGENCY ROLLBACK "
     echo ""
     echo "   This will:"
     echo "     - Stop Cowrie (~5s)"

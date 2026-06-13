@@ -166,6 +166,3 @@ A motivated attacker could spam Bedrock invocations, draining your credits AND p
 
 ---
 
-## Now applying fixes
-
-I'll implement C1, C2, C3, C4, H1, H2, H3, H4, H5, H6, M5, M6, M7. Skipping the rest as time-constrained nice-to-haves with documented fix instructions.
