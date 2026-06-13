@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Secrets / deploy-time artifacts (never commit)
+auth.token
+*.token
+.env
+*.pem
+*.key
+SVCD_*
+SCALPEL_*.local
+
+# OS
+.DS_Store
+
+# Logs / runtime data
+*.log
+/var/log/
+metrics.jsonl
